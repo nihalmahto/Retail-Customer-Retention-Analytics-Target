@@ -76,37 +76,6 @@ Promotion Usage (%)
 
 ![Executive Summary Dashboard](https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Summary).png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Page 2: Loyalty & Promotion Impact
 
 Churn Rate by Loyalty Tier
@@ -116,6 +85,8 @@ Points Earned vs. Points Redeemed
 Avg Spend (With vs. Without Promotion)
 
 Promotion Usage by Loyalty Tier
+
+![Loyality & Promotion](https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Loyality%20%26%20Promotion).png)
 
 #### Page 3: Store & Channel Insights
 
@@ -127,6 +98,8 @@ Purchase Count by Channel
 
 Retention vs. Store Opening Year
 
+![Store Insights](https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Store%20Insights).png)
+
 #### Page 4: Customer Segmentation
 
 Segmentation of Churned, Repeat, and High-Value customers
@@ -134,6 +107,8 @@ Segmentation of Churned, Repeat, and High-Value customers
 Avg CLV and Purchase Behavior by Segment
 
 Churn Risk by Customer Tier
+
+![Segmentation](https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Segmentation).png)
 
 ### Business Impact & Insights
 
