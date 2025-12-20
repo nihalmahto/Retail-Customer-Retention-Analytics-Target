@@ -76,6 +76,8 @@ Promotion Usage (%)
 
 Show what the dashboard looks like. - Alt text Example: 
 
+https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Summary).png
+
 #### Page 2: Loyalty & Promotion Impact
 
 Churn Rate by Loyalty Tier
