@@ -74,7 +74,7 @@ Average Customer Lifetime Value (CLV)
 
 Promotion Usage (%)
 
-![Alt text]([IMAGE_URL](https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Summary).png))
+![Executive Summary Dashboard](https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Summary).png)
 
 
 
