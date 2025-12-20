@@ -74,9 +74,8 @@ Average Customer Lifetime Value (CLV)
 
 Promotion Usage (%)
 
-Show what the dashboard looks like. - Alt text Example: 
+![Alt text](IMAGE_URL)
 
-https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Screenshot%20(Summary).png
 
 #### Page 2: Loyalty & Promotion Impact
 
