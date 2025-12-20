@@ -74,6 +74,8 @@ Average Customer Lifetime Value (CLV)
 
 Promotion Usage (%)
 
+Show what the dashboard looks like. - Alt text Example: 
+
 #### Page 2: Loyalty & Promotion Impact
 
 Churn Rate by Loyalty Tier
