@@ -72,6 +72,9 @@ Repeat Purchase Rate
 
 Average Customer Lifetime Value (CLV)
 
+Screenshot:
+https://github.com/nihalmahto/Retail-Customer-Retention-Analytics-Target/blob/main/Retail%20Customer%20Retention%20Analytics%20%E2%80%93%20Target%20(Summary).png
+
 Promotion Usage (%)
 
 #### Page 2: Loyalty & Promotion Impact
