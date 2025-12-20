@@ -122,11 +122,11 @@ Low reward redemption weakens loyalty engagement
 
 Customer inactivity strongly correlates with churn
 
-##. Key Recommendation
+### Key Recommendation
 
 Prioritize retention of high-value and repeat customers, improve high-churn channels, and strengthen loyalty through personalized, redemption-focused engagement.
 
-##. How to Use the Dashboard
+### How to Use the Dashboard
 
 Filter data using slicers for Region, Channel, Income Level, and Loyalty Tier
 
